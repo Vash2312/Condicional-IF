@@ -7,7 +7,7 @@ namespace Condicional_IF
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenido a System Sassano INC.");
-
+            Console.WriteLine("Hola Nesman");
             Console.WriteLine("Introduzca su nombre por favor");
 
             string nombre = Console.ReadLine();

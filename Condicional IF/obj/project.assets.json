@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Condicional IF\\Condicional IF\\Condicional IF.csproj",
+      "projectUniqueName": "C:\\Users\\Christian\\Documents\\Condicional IF\\Condicional IF\\Condicional IF.csproj",
       "projectName": "Condicional IF",
-      "projectPath": "C:\\Users\\Christian\\source\\repos\\Condicional IF\\Condicional IF\\Condicional IF.csproj",
+      "projectPath": "C:\\Users\\Christian\\Documents\\Condicional IF\\Condicional IF\\Condicional IF.csproj",
       "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\source\\repos\\Condicional IF\\Condicional IF\\obj\\",
+      "outputPath": "C:\\Users\\Christian\\Documents\\Condicional IF\\Condicional IF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
